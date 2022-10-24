@@ -1,23 +1,25 @@
 {
-  "name": "wedding-website",
+  "name": "magnets web",
   "version": "1.0.1",
-  "description": "A wedding website with loads of features.",
+  "description": "צילום מגנטים חן הפקות",
   "main": "npmfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:rampatra/wedding-website.git"
+    "url": "git+ssh://git@github.com:AdirIzhackPoor/magnet.github"
   },
   "keywords": [
     "wedding",
-    "template",
-    "website template"
+    "magnets"
+    "מגנטים"
+    "צילום מגנטים"
+    "חן הפקות"
   ],
-  "author": "Ram Patra",
+  "author": "adir izhack poor",
   "license": "GPL-3.0",
-  "homepage": "https://github.com/rampatra/wedding-website",
+  "homepage": "https://github.com/AdirIzhackPoor/magnet.github",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
